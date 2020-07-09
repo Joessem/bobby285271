@@ -1,5 +1,3 @@
-![](https://tva4.sinaimg.cn/large/9bd9b167ly1fwsfucs1hrj21hc0u01kx.jpg)
-
 ## Bobby Rong (bobby285271)
 | 🔭 SCNUSE undergraduate | ⚡ Competitive programmer | ✨ Arch Linux user |
 |:---:|:---:|:---:|
