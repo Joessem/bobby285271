@@ -3,8 +3,8 @@
 ✨ I am currently...
 
 - ... an undergraduate majoring in software engineering in **South China Normal University**.
-- ... member of **Anthon Open Source Community** and **SCNU Software Association**.
-- ... reading *Computer Systems: A Programmer's Perspective* and learning assembly language & operating systems.
+- ... a member of **Anthon Open Source Community** and **SCNU Software Association**.
+- ... reading ***Computer Systems: A Programmer's Perspective*** and learning **assembly language** & **operating systems**.
 
 ✨ Learn more about me on https://aosc.io/people/~bobby285271/ !
 
