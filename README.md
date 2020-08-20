@@ -1,4 +1,7 @@
-- 🔭 I am interested in cool stuff related to linux, networking, servers, sysadmin, virtualization and devops.
-- 🌱 I am currently reading CSAPP, learning assembly language & operating systems and translating aosc-wiki.
-- ✨ I dream of solving div2d during contests constantly and becoming candidate master in codeforces.
-- 📫 Feel free to visit my [blog](https://www.bobby285271.top/) (zh-cn) , follow me on [codeforces](http://codeforces.com/profile/bobby285271) and contact me via [email](mailto:admin@bobby285271.top)!
+
+
+<p align="center">
+  ✨ Learn more about me on https://aosc.io/people/~bobby285271/ !
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=bobby285271&show_icons=true">
+</p>
