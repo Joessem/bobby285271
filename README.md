@@ -8,5 +8,4 @@
 
 ✨ Learn more about me on https://aosc.io/people/~bobby285271/ !
 
-![](https://github-readme-stats.vercel.app/api?username=bobby285271&show_icons=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=bobby285271&show_icons=true" height="150px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobby285271&layout=compact" height="150px">
