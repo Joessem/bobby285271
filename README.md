@@ -4,7 +4,7 @@
 
 - ... an undergraduate majoring in software engineering in South China Normal University.
 - ... a member of Anthon Open Source Community and SCNU Software Association.
-- ... reading *Computer Systems: A Programmer's Perspective* and learning assembly language & operating systems.
+- ... learning assembly language.
 
 ✨ Learn more about me on https://aosc.io/people/~bobby285271/ !
 
