@@ -1,4 +1,4 @@
-## 😀 Hi there, I'm Bobby Rong
+### 👋 Hi there, I'm Bobby Rong
 
 ✨ I am currently...
 
