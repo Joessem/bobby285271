@@ -2,7 +2,7 @@
 
 ✨ I am currently...
 
-- ... an undergraduate majoring (class of 2023) in software engineering in South China Normal University.
+- ... an undergraduate (class of 2023) majoring in software engineering in South China Normal University.
 - ... a member of Anthon Open Source Community and SCNU Software Association (a.k.a. SoCoding).
 - ... learning & making operating systems!
 
