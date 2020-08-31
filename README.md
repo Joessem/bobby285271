@@ -2,8 +2,8 @@
 
 ✨ I am currently...
 
-- ... an undergraduate majoring in software engineering in South China Normal University.
-- ... a member of Anthon Open Source Community and SCNU Software Association.
+- ... an undergraduate majoring (class of 2023) in software engineering in South China Normal University.
+- ... a member of Anthon Open Source Community and SCNU Software Association (a.k.a. SoCoding).
 - ... learning & making operating systems!
 
 ✨ Learn more about me on https://aosc.io/people/~bobby285271/ !
