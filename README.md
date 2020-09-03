@@ -3,7 +3,7 @@
 ✨ I am currently...
 
 - ... an undergraduate (class of 2023) majoring in software engineering in South China Normal University.
-- ... a member of Anthon Open Source Community and SCNU Software Association (a.k.a. SoCoding).
+- ... a member of [Anthon Open Source Community](https://aosc.io) and SCNU Software Association (a.k.a. SoCoding).
 - ... a [legendary newbie](https://codeforces.com/profile/bobby285271) on codeforces and competitive programming.
 - ... learning & making operating systems!
 
