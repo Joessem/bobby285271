@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Bobby Rong.
 
+> Inactive before 2 Oct 2020.
+
 ✨ I am currently...
 
 - ... an undergraduate (class of 2023) majoring in software engineering in South China Normal University.
