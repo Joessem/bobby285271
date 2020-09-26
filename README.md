@@ -7,6 +7,7 @@
 - ... an undergraduate (class of 2023) majoring in software engineering in South China Normal University.
 - ... a member of Anthon Open Source Community and SCNU Software Association.
 - ... learning & making operating systems!
+- ... preparing for CCPC 2020!
 
 ✨ Learn more about me on https://aosc.io/people/~bobby285271/ !
 
