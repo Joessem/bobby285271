@@ -6,6 +6,7 @@
 - ... a member of Anthon Open Source Community and SCNU Software Association.
 - ... learning & making operating systems!
 - ... preparing for China Collegiate Programming Contest 2020!
+- ... maintaining SCNU Online Judge!
 
 ✨ Learn more about me on https://aosc.io/people/~bobby285271/ !
 
